@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://yadddi.github.io/csb-ns2stt/static/css/main.fc5c2c69.css",
+    "main.js": "https://yadddi.github.io/csb-ns2stt/static/js/main.9df817c0.js",
+    "index.html": "https://yadddi.github.io/csb-ns2stt/index.html",
+    "main.fc5c2c69.css.map": "https://yadddi.github.io/csb-ns2stt/static/css/main.fc5c2c69.css.map",
+    "main.9df817c0.js.map": "https://yadddi.github.io/csb-ns2stt/static/js/main.9df817c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9df817c0.js"
+  ]
+}
